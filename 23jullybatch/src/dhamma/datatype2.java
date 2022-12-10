@@ -7,12 +7,12 @@ public class datatype2 {
 		byte stdMaxMarks=40;
 		byte stdTotalMarks=100;
 		int stdRollNumber=123456;
-		long stdMobileNumber=9421724430L;
+		long stdMobileNumber=9172508183L;
 		
 		double stdAvgMarks=15.1234567897896541;
 		float stdPercentage=40.879546123f;
 		
-		char stdGrade='B';
+		char stdGrade='A';
 		
 		String dhamma="All Clear@Velocity Group#$1234";
 		
